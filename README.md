@@ -5,7 +5,10 @@ A collection of scripts written in python for the purpose of making life easier 
 ## Scripts
 - run-command
   - A semantic command launcher for shells that makes it easier to automate more complex sequences of commands
-  - [Documentation][run-command]
+  - [Documentation][run-command-docs]
 
 ## References
-[run-command]: 
+
+
+
+[run-command-docs]: https://github.com/marcus-grant/python-shell-utils/blob/master/docs/run-command.md
